@@ -1,0 +1,20 @@
+﻿ScanRFID
+
+
+winexe
+C#
+.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\
+ScanRFID
+none
+false
+DEBUG;TRACE
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\App.xaml
+18-83050825
+
+221197375176
+19867978260
+MainWindow.xaml;View\Information Managerment\UserControlAuthLogManagerment.xaml;View\Information Managerment\UserControlGroupManagerment.xaml;View\Information Managerment\UserControlHomepage.xaml;View\Information Managerment\UserControlPrivilegeManagement.xaml;View\Information Managerment\UserControlSystemLogManagerment.xaml;View\Information Managerment\UserControlTeminalManagerment.xaml;View\Information Managerment\UserControlUserManagement.xaml;View\Meal Service Managerment\UserControlMealServiceInquiry.xaml;View\Meal Service Managerment\UserControlMealServiceProcessing.xaml;View\Meal Service Managerment\UserControlMealServiceSetting.xaml;View\Setting\UserControlOptionSetting.xaml;View\Setting\UserControlTimezoneSetting.xaml;View\TNA Managerment\UserControlResultProcess.xaml;View\TNA Managerment\UserControlResultSearch.xaml;View\TNA Managerment\UserControlScheduleManagerment.xaml;View\TNA Managerment\UserControlScheduleSearch.xaml;View\TNA Managerment\UserControlScheduleSetup.xaml;
+
+False
+

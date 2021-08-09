@@ -1,0 +1,56 @@
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\bin\Debug\ScanRFID.exe.config
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\bin\Debug\ScanRFID.exe
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\bin\Debug\ScanRFID.pdb
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\bin\Debug\MaterialDesignColors.dll
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID.csprojAssemblyReference.cache
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\MainWindow.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\App.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID_MarkupCompile.cache
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID_MarkupCompile.lref
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\App.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\MainWindow.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID.g.resources
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID.csproj.GenerateResource.cache
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID.csproj.CopyComplete
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID.exe
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID.pdb
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlAuthLogManagerment.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlGroupManagerment.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlHomepage.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlPrivilegeManagement.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlSystemLogManagerment.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlTeminalManagerment.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlUserManagement.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlScheduleManagerment.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlScheduleSetup.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlAuthLogManagerment.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlGroupManagerment.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlHomepage.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlPrivilegeManagement.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlSystemLogManagerment.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlTeminalManagerment.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Information Managerment\UserControlUserManagement.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlScheduleManagerment.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlScheduleSetup.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Meal Service Managerment\UserControlMealServiceInquiry.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Meal Service Managerment\UserControlMealServiceSetting.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Setting\UserControlOptionSetting.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Setting\UserControlTimezoneSetting.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlResultProcess.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlResultSearch.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlScheduleSearch.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Meal Service Managerment\UserControlMealServiceProcessing.g.cs
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Meal Service Managerment\UserControlMealServiceInquiry.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Meal Service Managerment\UserControlMealServiceProcessing.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Meal Service Managerment\UserControlMealServiceSetting.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Setting\UserControlOptionSetting.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\Setting\UserControlTimezoneSetting.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlResultProcess.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlResultSearch.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\View\TNA Managerment\UserControlScheduleSearch.baml
+E:\Visual Studio 2015\Projects\Mr.Tung\RFID\ScanRFID\ScanRFID\obj\Debug\ScanRFID.exe.licenses

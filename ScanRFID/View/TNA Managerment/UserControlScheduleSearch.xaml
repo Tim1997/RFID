@@ -1,0 +1,162 @@
+﻿<UserControl x:Class="ScanRFID.View.TNA_Managerment.UserControlScheduleSearch"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ScanRFID.View.TNA_Managerment"
+             mc:Ignorable="d" 
+             
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             
+             d:DesignHeight="450" d:DesignWidth="1000">
+    <Grid>
+        <StackPanel>
+            <WrapPanel>
+                <CheckBox Style="{StaticResource MaterialDesignCheckBox}"
+                          Content="With sub-items" Margin="25 5 5 5" VerticalAlignment="Bottom"/>
+                <DatePicker Width="100" materialDesign:HintAssist.Hint="Pick Date" Margin="5"
+                            Style="{StaticResource MaterialDesignFloatingHintDatePicker}"/>
+                <DatePicker Width="100" materialDesign:HintAssist.Hint="Pick Date" Margin="5"
+                            Style="{StaticResource MaterialDesignFloatingHintDatePicker}"/>
+                <Button Style="{StaticResource MaterialDesignFlatButton}"
+                        Width="auto" Margin="5 5 5 0"
+                        ToolTip="Search">
+                    <materialDesign:PackIcon Kind="FolderSearchOutline" Width="20" Height="20"/>
+                </Button>
+                <Button Style="{StaticResource MaterialDesignFlatButton}"
+                        Width="auto" Margin="5 5 5 0"
+                        ToolTip="Search">
+                    <materialDesign:PackIcon Kind="ContentSave" Width="20" Height="20"/>
+                </Button>
+                <Button Style="{StaticResource MaterialDesignFlatButton}"
+                        Width="auto" Margin="5 5 5 0"
+                        ToolTip="Search">
+                    <materialDesign:PackIcon Kind="Close" Width="20" Height="20"/>
+                </Button>
+            </WrapPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Margin="5" Height="350">
+                    <Rectangle Stroke="Black"/>
+                </Grid>
+                <Grid Grid.Column="1" Margin="5">
+                    <materialDesign:Card>
+                        <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="5">
+                            <DataGrid ItemsSource="{Binding}" SelectedItem="{Binding SelectedItem , Mode=OneWayToSource}"
+                              AutoGenerateColumns="False" IsReadOnly="True">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="User ID" Binding="{Binding}"/>
+                                    <DataGridTextColumn Header="Name" Binding="{Binding}"/>
+                                    <DataGridTextColumn Header="Department" Binding="{Binding}"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
+                        </ScrollViewer>
+                    </materialDesign:Card>
+                </Grid>
+
+                <Grid Grid.Column="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <materialDesign:Card  Margin="5">
+                            <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="5">
+                                <DataGrid ItemsSource="{Binding}" SelectedItem="{Binding SelectedItem , Mode=OneWayToSource}"
+                              AutoGenerateColumns="False" IsReadOnly="True">
+                                    <DataGrid.Columns>
+                                        <DataGridTextColumn Header="Date" Binding="{Binding}"/>
+                                        <DataGridTextColumn Header="Day" Binding="{Binding}"/>
+                                        <DataGridTextColumn Header="Schedule Name" Binding="{Binding}"/>
+                                        <DataGridTextColumn Header="Schedule ID" Binding="{Binding}"/>
+                                    </DataGrid.Columns>
+                                </DataGrid>
+                            </ScrollViewer>
+                        </materialDesign:Card>
+                    </Grid>
+                    <StackPanel Grid.Row="1">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="50"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <Grid Grid.Column="2">
+                                <WrapPanel HorizontalAlignment="Center">
+                                    <Button Style="{StaticResource MaterialDesignFlatButton}"
+                                    Width="auto" Margin="5 5 5 0"
+                                    ToolTip="Search">
+                                        <materialDesign:PackIcon Kind="ArrowUpThick" Width="20" Height="20"/>
+                                    </Button>
+                                    <Button Style="{StaticResource MaterialDesignFlatButton}"
+                                    Width="auto" Margin="5 5 5 0"
+                                    ToolTip="Search">
+                                        <materialDesign:PackIcon Kind="ArrowDownThick" Width="20" Height="20"/>
+                                    </Button>
+                                </WrapPanel>
+                            </Grid>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="50"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <Grid Grid.Column="0">
+                                <materialDesign:Card  Margin="5">
+                                    <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="5">
+                                        <DataGrid ItemsSource="{Binding}" SelectedItem="{Binding SelectedItem , Mode=OneWayToSource}"
+                                            AutoGenerateColumns="False" IsReadOnly="True">
+                                            <DataGrid.Columns>
+                                                <DataGridTextColumn Header="Schedule list" Binding="{Binding}"/>
+                                            </DataGrid.Columns>
+                                        </DataGrid>
+                                    </ScrollViewer>
+                                </materialDesign:Card>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Button Style="{StaticResource MaterialDesignFlatButton}"
+                                        Width="auto" ToolTip="Search">
+                                        <materialDesign:PackIcon Kind="ArrowLeftThick" Height="20" Width="20"/>
+                                    </Button>
+                                    <Button Style="{StaticResource MaterialDesignFlatButton}"
+                                        Width="auto" ToolTip="Search">
+                                        <materialDesign:PackIcon Kind="ArrowRightBold" Height="20" Width="20"/>
+                                    </Button>
+                                </StackPanel>
+                            </Grid>
+                            <Grid Grid.Column="2">
+                                <materialDesign:Card  Margin="5">
+                                    <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="5">
+                                        <DataGrid ItemsSource="{Binding}" SelectedItem="{Binding SelectedItem , Mode=OneWayToSource}"
+                              AutoGenerateColumns="False" IsReadOnly="True">
+                                            <DataGrid.Columns>
+                                                <DataGridTextColumn Header="Applying the schedule list" Binding="{Binding}"/>
+                                            </DataGrid.Columns>
+                                        </DataGrid>
+                                    </ScrollViewer>
+                                </materialDesign:Card>
+                            </Grid>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</UserControl>
